@@ -10,7 +10,8 @@ Sou um FullStack Developer :computer:
  :rocket:  &nbsp; Estou trabalhando na **GFT Brasil Consultoria Ltda**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> :computer: &nbsp; Minha stack: JavaScript, Angular, Typescript, Java, ESQL(IBM Integration Bus)
+ <br/> Tambem trabalho com infraestrutura de servidores, Linux, Windows, Websphere Application Server, IBM BPM, IBM Filenet, IBM Datacap, IBM WSRR e IBM Content Navigator. 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Jeronimo%20de%20Mello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeronimo-de-mello-393804124/)](https://www.linkedin.com/in/jeronimo-de-mello-393804124/) 
 | 
