@@ -5,7 +5,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação. Gosto muito de ser participativo e ajudar os outros
-Sou um FullStack Developer :computer:
+ <br/>Sou um FullStack Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **GFT Brasil Consultoria Ltda**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
