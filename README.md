@@ -7,8 +7,8 @@
 Sou apaixonado por resolver problemas utilizando a programação. Gosto muito de ser participativo e ajudar os outros
  <br/>Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **GFT Brasil Consultoria Ltda**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Angular e Javascript e Back-end usando Java.
+ :bank:  &nbsp; Estou trabalhando na **GFT Brasil Consultoria Ltda**
+ <br/> :bicyclist: &nbsp; Buscando colaborar com projetos em Front-end usando Angular e Javascript e Back-end usando Java.
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox.
  <br/> :computer: &nbsp; Minha stack: JavaScript, Angular, Typescript, Java, ESQL(IBM Integration Bus).
  <br/> Tambem trabalho com infraestrutura de sistemas de computadores usando Linux, Windows, Websphere Application Server, IBM BPM, IBM Filenet, IBM Datacap, IBM WSRR e IBM Content Navigator. 
