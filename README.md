@@ -4,7 +4,7 @@
 # Jeronimo de Mello
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação. Gosto muito de ser participativo e ajudar os outros
+Sou apaixonado por resolver problemas utilizando a programação. Gosto muito de ser participativo e ajudar os outros.
  <br/>Sou um FullStack Developer :computer:
 
  :bank:  &nbsp; Estou trabalhando na **GFT Brasil Consultoria Ltda**
