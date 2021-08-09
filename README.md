@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/Jere201086/Jere201086/blob/master/banner-web-development.png">
+<img width="auto" src="#teamgft – duplex – Rasberry.png">
 
 
 # Jeronimo de Mello
