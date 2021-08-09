@@ -1,4 +1,4 @@
-<img width="auto" src="#teamgft – duplex – Rasberry.png">
+<img width="auto" src="https://github.com/Jere201086/Jere201086/blob/master/%23teamgft%20%E2%80%93%20duplex%20%E2%80%93%20Rasberry.png?raw=true">
 
 
 # Jeronimo de Mello
